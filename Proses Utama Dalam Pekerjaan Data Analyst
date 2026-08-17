@@ -1,0 +1,27 @@
+Urutannya secara sederhana : Collection → Cleanup → Exploration → Visualization → Statistical Analysis → Machine Learning
+
+1. Data Collection - Mengumpulkan Data
+Data Collection adalah proses mengambil data atau mengumpulkan data yang dibutuhkan untuk analisis.
+Sumber : Database Perusahaa, Excel/CSV, API, Data Survey, Sistem trsansksi, Sensor, Aplikasi
+
+2. Data Cleanup - Membersihkan Data
+Setelah mendapatkan jangan langsung dianalisis.
+Data biasanya memiliki masalah seperti : Data kosong(NULL), data duplikat, typo, format tanggal berbeda, data yang tidak masuk akal, nama kategori tidak konsisten.
+Tools : Excel, SQL, Python/Pandas.
+
+3. Data Exploration - Mengeksplorasi Data
+Setelah data sudah bersih, saat nya mulai memahami isi data -> Exploratory Data Analysis (EDA).
+Contoh : Berapa jumlah data, produk mana yang paling banyak terjual, berapa rata-rata penjualan, kota mana yang memiliki penjualan terbesar, apakah ada nilai yang sangat tinggi/rendah, apakah terdapat pola tertentu.
+
+4. Data Visualization - Memvisualisasikan Data
+Setelah datanya sudah di explorasi maka dibuatkan visualisasi data.
+Data Visualization adalah proses mengubah data menjadi bentuk visual, sehingga informasi lebih mudah dipahami.
+Contoh : Bar chart, line chart, pie chart, scatter plot, dashboard
+
+5. Statistical Analysis - Analisis Statistik
+Di tahap ini menggunakan metode statistik untuk memahami data lebih dalam dan menarik kesimpulan.
+Teknik : Mean, median, standard deviation, correlation, hypothesis testing, confidence interval 
+
+6. Machine Learning - Membuat Sistem Belajar dari Data
+Machine Learning menggunakan algoritma untuk mempelajari pola dari data, kemudian membuat prediksi atau klasifikasi.
+Tools : Python, scikit-learn, tensorFlow, pyTorch
