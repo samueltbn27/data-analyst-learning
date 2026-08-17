@@ -1,0 +1,28 @@
+1. Descriptive Analytics - "Apa yang terjadi?"
+Analisis digunakan untuk melihat dan menggambarkan kondisi data yang sudah terjadi.
+Contoh : berapa total penjualan pada hari ini, produk apa yang paling laris, berapa jumlah pelanggan pada hari ini, bagaimana perkemabangan penjualan dari bulan januari - desember.
+Perusahaan memiliki data penjualan : Januari 50jt, Februari 60jt, Maret, 20jt -> Seorang data analsyt menyimpulkan pada bulan februari hingga maret penjualan turun 15%.
+Tools : Excel, SQL, Power BI, Tableau, Python
+
+2. Diagnostic Analytics - "Kenapa itu terjadi?"
+Analisis yang digunakan untuk mencari penyebab dari suatu masalah atau perubahan dalam data.
+Contoh : Pada data perusahaan melihat data produk A mengalami penurunan 15%, lalu seorang data analyst mencari penyebab nya apakah stok Produk A habis, apakah jumlah pelanggan yang membeli berkurang, apakah harga Produk A naik.
+Tools : SQL, Excel, Python, Data visualization, Correlation analysis, Drill-down analysis
+Sederhana nya adalah : 
+descriptive: "Penjualan turun 15%."
+⬇️
+diagnostic: "Kenapa penjualan turun 15%?"
+
+3. Predictive Analytics - "Apa yang mungkin terjadi di masa depan?"
+Analisis yang menggunakan data historis untuk memperkirakan apa yang mungkin terjadi di masa depan.
+contoh : Seorang data analyst/data scientist dapat membuat model untuk memperkirakan penjualan dapat diperkirakan mencapai 70 jt.
+Contoh : prediksi jumlah penjualan bulan depan, prediksi pelanggan yang akan berhenti berlangganan, prediksi harga, prediksi permintaan produk, prediksi risiko gagal bayar
+Teknik : regression, time series, machine learning, python, scikit-learn 
+Notes : Predictive Analytics sudah mulai bersinggungan dengan pekerjaan Data Scientist/ML, terutama kalau modelnya kompleks tapi Data Analyst juga bisa menggunakan predictive analytics sederhana.
+
+4. Prescriptive Analytics - "Apa yang sebaiknya saya lakukan?"
+Misalnya: Predictive penjualan Produk A diprediksi turun 10%, lalu prescriptive tambahkan stok Produk A dan buat promo untuk meningkatkan penjualan.
+Contoh : Stok produk A diprediksi habis dalam 3 hari → tambah stok sekarang.
+Teknik : Optimization, simulation, machine learning, ai, operations research
+
+Tips biar gampang dipahamai : D-D-P-P
