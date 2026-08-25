@@ -1,0 +1,14 @@
+Structured Query Language (SQL) adalah bahasa pemrograman yang paling banyak digunakan untuk bekerja dengan data dalam database.
+
+Database adalah sistem terpusat yang dirancang untuk:
+- Menyimpan data secara aman dan andal
+- Mengambil informasi dengan cepat dan efisien
+- Memanipulasi data secara sistematis
+Dalam kehidupan nyata, database ada di mana-mana — setiap kali kamu membuka aplikasi e-commerce, media sosial, atau perbankan, database bekerja di balik layar. Dan sebagai data analyst, kamu akan menggunakannya sebagai sumber utama data untuk analisis dan pelaporan.
+
+Bayangkan database seperti lemari arsip yang sangat terorganisir
+- Tabel adalah seperti laci yang menyimpan satu kategori informasi — misalnya tabel products hanya berisi data produk.
+- Baris adalah satu rekaman lengkap — misalnya semua informasi tentang satu produk tertentu.
+- Kolom adalah satu jenis informasi spesifik — misalnya kolom price hanya berisi harga dari setiap produk.
+Kombinasi ketiganya inilah yang membuat database sangat terstruktur dan mudah diakses dengan SQL.
+
