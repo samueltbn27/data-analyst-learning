@@ -58,7 +58,6 @@ for produk, unit in total_produk.items():
         unit_terbesar = unit
         produk_unit_terbesar = produk
 
-
 # Output
 print(f"\nTotal Seluruh Penjualan : Rp{total_seluruh_penjualan:,.0f}")
 
